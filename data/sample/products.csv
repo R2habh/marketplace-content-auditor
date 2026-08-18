@@ -1,0 +1,6 @@
+id,title,description,brand,category,sku,gtin,price,currency,product_url,image_url
+1,"BEST RUNNING SHOES!!! FREE SHIPPING","Amazing shoes for running and walking.",Nike,Shoes,NIKE001,1234567890123,79.99,USD,https://example.com/shoe1,https://example.com/shoe1.jpg
+2,"Wireless Bluetooth Headphones","Wireless headphones with noise cancellation and long battery life.",SoundMax,Electronics,HEAD001,1234567890124,59.99,USD,https://example.com/headphones,https://example.com/headphones.jpg
+3,"Cotton T Shirt","Comfortable cotton t shirt for everyday use.",FashionCo,Clothing,TSHIRT001,1234567890125,19.99,USD,https://example.com/tshirt,https://example.com/tshirt.jpg
+4,"Premium Laptop Bag For Business Professionals And Students With Extra Large Storage Compartment And Waterproof Material","High quality laptop bag designed for business professionals and students. Includes multiple compartments and waterproof material.",BagCo,Bags,BAG001,1234567890126,49.99,USD,https://example.com/bag,https://example.com/bag.jpg
+5,"SALE CHEAP PHONE CASE!!!","Buy now! Best phone case with free shipping and amazing discount.",CasePro,Accessories,CASE001,1234567890127,9.99,USD,https://example.com/case,https://example.com/case.jpg

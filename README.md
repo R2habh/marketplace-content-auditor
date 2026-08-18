@@ -142,7 +142,14 @@ Score = max(0, 100 - sum(deductions))
 
 ## Dashboard Preview
 
-![Dashboard Overview](docs/dashboard.png)
+### Overview
+![Dashboard Overview](docs/dashboard-overview.png)
+
+### Violations Analysis
+![Violations Analysis](docs/dashboard-violations.png)
+
+### Product Details
+![Product Details](docs/dashboard-details.png)
 
 *Run `streamlit run dashboard.py` and open http://localhost:8501*
 

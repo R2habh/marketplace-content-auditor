@@ -6,3 +6,10 @@ __pycache__/
 .DS_Store
 .idea/
 .vscode/
+
+# Data files (large)
+data/raw/*.csv
+data/processed/*.json
+
+# OS
+Thumbs.db

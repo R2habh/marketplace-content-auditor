@@ -140,6 +140,12 @@ Score = max(0, 100 - sum(deductions))
 - **Product Table**: Sortable, filterable list
 - **Drill-down**: Click product for violation details with recommendations
 
+## Dashboard Preview
+
+![Dashboard Overview](docs/dashboard.png)
+
+*Run `streamlit run dashboard.py` and open http://localhost:8501*
+
 ## Running Tests
 
 ```bash
